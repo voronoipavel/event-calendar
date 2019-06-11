@@ -1,0 +1,54 @@
+.wall {
+	padding: 20px;
+	display: inline-block;
+}
+
+/* .log-reg{
+	background: url("https://static1.squarespace.com/static/58e6c88086e6c0ff63d1c691/t/58e6e3ca17bffc41aae14b63/1491526655013/chalkboard-background+%281%29.jpg?format=2500w") no-repeat center center fixed;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	height: 100vh;
+}  */
+#log_reg{
+	width: 80%;
+	background: url("https://static1.squarespace.com/static/58e6c88086e6c0ff63d1c691/t/58e6e3ca17bffc41aae14b63/1491526655013/chalkboard-background+%281%29.jpg?format=2500w") no-repeat center center fixed;
+ 	height: 900px;
+ }
+container{
+ 	width: 80%;
+
+ }
+ 
+ .greet{
+ 	padding: 10px 10px;
+ }
+ 
+.table1{
+	padding: 0px 10px;
+}
+
+.invalid{
+	color: red;
+}
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+canvas {
+   display: inline;
+}
+/* .list-group{
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+} *
+
+.anyClass {
+  height:150px;
+  overflow-y: scroll;
+}
+
+
