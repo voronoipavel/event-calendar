@@ -102,7 +102,7 @@
 <script>
 	var ctx = document.querySelector("canvas").getContext("2d"),
     dashLen = 220, dashOffset = dashLen, speed = 7,
-    txt = "Rendevous", x = 30, i = 0;
+    txt = "Calendar events", x = 30, i = 0;
 
 	ctx.font = "50px Comic Sans MS, cursive, TSCu_Comic, sans-serif";
 	ctx.lineWidth = 5; ctx.lineJoin = "round"; ctx.globalAlpha = 2/3;
